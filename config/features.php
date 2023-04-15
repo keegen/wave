@@ -2,63 +2,44 @@
 
 return [
     (object)[
-        'title' => 'Authentication',
-        'description' => 'Fully loaded authentication, email verification, and password reset. Authentication in a snap!',
-        'image' => '/themes/tailwind/images/authentication.png'
+        'title' => 'Lead Forms',
+        'description' => 'Contact forms and lead capture forms on vehicle detail pages',
+        'image' => '/themes/tailwind/images/pds_leads.png'
     ],
     (object)[
-        'title' => 'User Profiles',
-        'description' => 'Customizable user profiles. Allow your users to enter data and easily customize their user profiles.',
-        'image' => '/themes/tailwind/images/profile.png'
+        'title' => 'Inventory Management System',
+        'description' => 'Daily automation that syncs inventory with dealership website. Also allows you to add, edit or delete inventory with details and images. ',
+        'image' => '/themes/tailwind/images/pds_inventory.png'
     ],
     (object)[
-        'title' => 'User Impersonation',
-        'description' => 'With user impersonations you can login as another user and resolve an issue or troubleshoot a bug.',
-        'image' => '/themes/tailwind/images/impersonation.png'
+        'title' => 'Vehicle Search Functionality',
+        'description' => 'A search bar that allows website visitors to browse through available vehicles based on make, model, year, mileage, and price range.',
+        'image' => '/themes/tailwind/images/pds_search.png'
     ],
     (object)[
-        'title' => 'Subscriptions',
-        'description' => 'Allow users to pay for your service and signup for a subscription using Paddle Payments.',
-        'image' => '/themes/tailwind/images/subscriptions.png'
+        'title' => 'Analytics Integrations',
+        'description' => 'Integration with Google Analytics for monitoring website and visitor data',
+        'image' => '/themes/tailwind/images/pds_integrations.png'
     ],
     (object)[
-        'title' => 'Subscription Plans',
-        'description' => 'Create new plans with different features and intrigue your users to subscribe to any plan.',
-        'image' => '/themes/tailwind/images/plans.png'
+        'title' => 'CRM Integration',
+        'description' => 'Integration with popular Customer Relationship Management (CRM) systems to help manage leads and customer data more efficiently',
+        'image' => '/themes/tailwind/images/pds_contacts.png'
     ],
     (object)[
-        'title' => 'User Roles',
-        'description' => 'Grant user permissions based on roles, you can then assign a role to a specific plan.',
-        'image' => '/themes/tailwind/images/roles.png'
+        'title' => 'Brandable Domain',
+        'description' => 'Use a custom domain name that is specific to the car sales professional\'s business and brand.',
+        'image' => '/themes/tailwind/images/pds_web.png'
     ],
     (object)[
-        'title' => 'Notifications',
-        'description' => 'Ready-to-use Notification System which integrates with the default Laravel notification feature.',
-        'image' => '/themes/tailwind/images/notifications.png'
+        'title' => 'Responsive Design',
+        'description' => 'website design that is optimized for all screen sizes, including desktops, laptops, and mobile devices.',
+        'image' => '/themes/tailwind/images/pds_mobile.png'
     ],
     (object)[
-        'title' => 'Announcements',
-        'description' => 'Create user announcements to notify users about new features or updates in your application.',
-        'image' => '/themes/tailwind/images/announcements.png'
+        'title' => 'SEO Optimization',
+        'description' => 'Optimization of website content and structure for search engine crawling and indexing, including keyword research, meta tags, and sitemaps.',
+        'image' => '/themes/tailwind/images/pds_seo.png'
     ],
-    (object)[
-        'title' => 'Blog',
-        'description' => 'Equipped with a fully-functional blog. Write posts related to your product to gain free SEO traffic.',
-        'image' => '/themes/tailwind/images/blog.png'
-    ],
-    (object)[
-        'title' => 'Fully Functional API',
-        'description' => 'Ready-to-consume API for your application. Create API tokens with role specific permissions.',
-        'image' => '/themes/tailwind/images/api.png'
-    ],
-    (object)[
-        'title' => 'Voyager Admin',
-        'description' => 'Wave has been crafted using Laravel & Voyager, which makes administering your app a breeze!',
-        'image' => '/themes/tailwind/images/admin.png'
-    ],
-    (object)[
-        'title' => 'Themes',
-        'description' => 'Fully configurable themes. Choose from a few starter themes to begin configuring to make it your own.',
-        'image' => '/themes/tailwind/images/themes.png'
-    ]
+
 ];

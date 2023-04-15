@@ -33,7 +33,7 @@
                     },
                     {
                         "key": "APP_URL",
-                        "value": "${APP_URL}",
+                        "value": "personaldealer.site",
                         "scope": "RUN_TIME"
                     },
                     {
@@ -229,7 +229,7 @@
                     },
                     {
                         "key": "APP_URL",
-                        "value": "${APP_URL}",
+                        "value": "personaldealer.site",
                         "scope": "RUN_TIME"
                     },
                     {

@@ -2,7 +2,7 @@ name: wave
 services:
 - name: web
   github:
-    repo: thedevdojo/wave
+    repo: keegen/wave
     branch: main
     deploy_on_push: true
   build_command: cd resources/views/themes/tailwind && npm install && npm run production
